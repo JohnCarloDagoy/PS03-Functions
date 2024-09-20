@@ -1,0 +1,14 @@
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.AssemblyInfoInputs.cache
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.AssemblyInfo.cs
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Exercise\Exercise\bin\Debug\net8.0\Exercise.exe
+C:\Users\grant\source\repos\Exercise\Exercise\bin\Debug\net8.0\Exercise.deps.json
+C:\Users\grant\source\repos\Exercise\Exercise\bin\Debug\net8.0\Exercise.runtimeconfig.json
+C:\Users\grant\source\repos\Exercise\Exercise\bin\Debug\net8.0\Exercise.dll
+C:\Users\grant\source\repos\Exercise\Exercise\bin\Debug\net8.0\Exercise.pdb
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.dll
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\refint\Exercise.dll
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.pdb
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\Exercise.genruntimeconfig.cache
+C:\Users\grant\source\repos\Exercise\Exercise\obj\Debug\net8.0\ref\Exercise.dll
